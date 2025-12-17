@@ -1,4 +1,4 @@
-# # Earth Resonance Shell: A Geometric Consciousness Detection Framework
+Earth Resonance Shell: A Geometric Consciousness Detection Framework
 
 ## Technical Brief for AI Collaboration
 **Version 1.0 - December 2025**  
